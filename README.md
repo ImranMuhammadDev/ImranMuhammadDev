@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ImranMuhammadDev
+- 👀 I’m interested in coding (duh!) and everything that is nerdy!
+- 🌱 I’m currently learning more about unit testing!
+- 💞️ I’m looking to collaborate on anything that is nerdy!
+- 📫 How to reach me: imran.jakub.muhammad@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a GM for almost as long as I'm a programmer!
